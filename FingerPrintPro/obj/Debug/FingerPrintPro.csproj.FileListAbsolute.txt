@@ -1,0 +1,66 @@
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\FingerPrintPro.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\FingerPrintPro.exe
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\FingerPrintPro.pdb
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.exe
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.pdb
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\Riss.Devices.dll
+c:\users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.csprojResolveAssemblyReference.cache
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\FingerPrintPro.exe.manifest
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\bin\Debug\FingerPrintPro.application
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.exe.manifest
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.application
+C:\Users\casper\documents\visual studio 2015\Projects\FingerPrintPro\FingerPrintPro\obj\Debug\FingerPrintPro.Form1.resources
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.Form1.resources
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.Properties.Resources.resources
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.GenerateResource.Cache
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\FingerPrintPro.exe.config
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\FingerPrintPro.exe.manifest
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\FingerPrintPro.application
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\FingerPrintPro.exe
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\FingerPrintPro.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\Riss.Devices.dll
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.exe.manifest
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.application
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.exe
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterOffice\FingerPrintPro\obj\Debug\FingerPrintPro.csprojResolveAssemblyReference.cache
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.Form1.resources
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprintextratik.Properties.Resources.resources
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.GenerateResource.Cache
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.exe.manifest
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.exe
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csprojResolveAssemblyReference.cache
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe.config
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe.manifest
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.application
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Riss.Devices.dll
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\casper\Documents\Visual Studio 2015\Projects\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.application
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.Form1.resources
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprintextratik.Properties.Resources.resources
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.exe
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.pdb
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe.config
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe.manifest
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.application
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.exe
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Fingerprint extratik.pdb
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Riss.Devices.dll
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.exe.manifest
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\Fingerprint extratik.application
+C:\Users\PC\Downloads\FingerPrintProPosterExtratik\FingerPrintProPosterExtratik\FingerPrintPro\obj\Debug\FingerPrintPro.csproj.CopyComplete
