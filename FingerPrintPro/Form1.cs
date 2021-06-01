@@ -149,7 +149,7 @@ namespace FingerPrintPro
 
                             var content = new FormUrlEncodedContent(values);
 
-                            var response = await client.PostAsync("http://192.168.1.100/glovision/Attendence/index", content);
+                            var response = await client.PostAsync("http://192.168.1.100/controller/Attendence/index", content);
 
                             var responseString = await response.Content.ReadAsStringAsync();
 
